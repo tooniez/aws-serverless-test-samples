@@ -1,0 +1,4 @@
+aws-durable-execution-sdk-python
+aws-durable-execution-sdk-python-testing
+pytest
+
